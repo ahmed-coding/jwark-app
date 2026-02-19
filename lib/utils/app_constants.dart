@@ -3,9 +3,9 @@ import 'package:demandium/utils/core_export.dart';
 class AppConstants {
 
 
-  static const String appName = 'Demandium';
-  static const String appVersion = '3.3'; /// Flutter SDK : 3.25.1
-  static const String baseUrl = 'YOUR_BASE_URL_HERE';
+  static const String appName = 'Jwark';
+  static const String appVersion = '1.0'; /// Flutter SDK : 3.25.1
+  static const String baseUrl = 'http://192.168.0.178';
   static const bool avoidMaintenanceMode = false;
   static const LocalCachesTypeEnum cachesType = LocalCachesTypeEnum.all;
   static const String categoryUrl = '/api/v1/customer/category?limit=20';
